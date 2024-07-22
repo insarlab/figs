@@ -1,2 +1,3 @@
-# design-docs
-Design documents
+# Figs
+
+Figure materials for repository design and documentation.
