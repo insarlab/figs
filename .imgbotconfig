@@ -1,0 +1,11 @@
+// reference: https://imgbot.net/docs/
+{
+    "schedule": "weekly",
+    "ignoredFiles" : [
+        "docs/mintpy/*-ISCE2.jpg",
+        "docs/mintpy/*-ROIPAC.jpg",
+        "docs/mintpy/*-Gamma.jpg",
+    ],
+    "minKBReduced": 50,
+}
+
